@@ -74,6 +74,7 @@ Mean and standard deviation for each frequency measurement:
 * freqBodyBodyGyroMagStdDev
 * freqBodyBodyGyroJerkMagMean
 * freqBodyBodyGyroJerkMagStdDev
+
 # Work done to get the tidy data
 1. The features and activity labels are read in.
 2. The variables inlcuding mean and standard deviation values are read in, others are excluded.
